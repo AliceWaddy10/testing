@@ -12,7 +12,7 @@
 <input type="hidden" name="id" value="${user.id}">
 Email : <input type="text" name="email" value="${user.email}"><br>
 Password : <input type="password" name="pass" value="${user.pass}"> <br>
-<button type="submit">Update</button>
+<button type="submit">Update Completed</button>
 
 
 </form>
